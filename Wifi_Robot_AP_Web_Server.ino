@@ -1,26 +1,3 @@
-<p align="center"><img src="./img/wifi-robot.jpg" width="400" height="400"  alt=" " /></p>
-<h1 align="center"> WiFi-robot-controller </h1> 
-<h4 align="right">Jun 25</h4>
-
-
-<img src="https://img.shields.io/badge/Hardware-ESP32-red">
-
-<br>
-
-# Table of contents
-- [Table of contents](#table-of-contents)
-- [Summary](#summary)
-  - [Arduino Code](#arduino-code)
-- [UI Controller](#ui-controller)
-- [Pictures](#pictures)
-
-<br>
-
-# Summary
-Mini robot, Sonar, Ultrasonic sensor, Ligth, Solar Panel, Wifi control from static ip 192.168.4.1
-
-## Arduino Code
-```c++
 /* 
  * ESP8266 as Web Server using WiFi Access Point (AP) mode
  * Connect to AP "Robot Wifi", password = "87654321"
@@ -249,27 +226,3 @@ void loop() {
   delay(100);
 }
 
-```
-
-<br>
-
-# UI Controller
-<p align="center"><img src="./img/wifi_robot_controller.jpg" width="400" height="400"  alt=" " /></p>
-
-<br>
-
-# Pictures
-<p align="center"><img src="./img/wifi-robot1.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot2.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot3.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot4.jpg" width="400" height="400"  alt=" " /></p>
-
-<br>
-
----
-Copyright &copy; 2022 [carjavi](https://github.com/carjavi). <br>
-```www.instintodigital.net``` <br>
-carjavi@hotmail.com <br>
-<p align="center">
-    <a href="https://instintodigital.net/" target="_blank"><img src="./img/developer.png" height="100" alt="www.instintodigital.net"></a>
-</p>
