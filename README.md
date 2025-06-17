@@ -18,7 +18,7 @@
 <br>
 
 # Summary
-Mini robot, Sonar, Ultrasonic sensor, Ligth, Solar Panel, Wifi control from static ip 192.168.4.1
+Mini robot with Ultrasonic sensor, Ligth, Solar Panel, Wifi controller from static ip 192.168.4.1 ESP8266 as Web Server using WiFi Access Point (AP) mode
 
 ## Arduino Code
 ```c++
