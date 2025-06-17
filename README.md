@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/wifi-robot.jpg" width="400" height="400"  alt=" " /></p>
+<p align="center"><img src="./img/wifi-robot.png" width="400" alt=" " /></p>
 <h1 align="center"> WiFi-robot-controller </h1> 
 <h4 align="right">Jun 25</h4>
 
@@ -13,6 +13,7 @@
   - [Arduino Code](#arduino-code)
 - [UI Controller](#ui-controller)
 - [Pictures](#pictures)
+- [Hardware](#hardware)
 
 <br>
 
@@ -254,15 +255,19 @@ void loop() {
 <br>
 
 # UI Controller
-<p align="center"><img src="./img/wifi_robot_controller.jpg" width="400" height="400"  alt=" " /></p>
+<p align="center"><img src="./img/wifi_robot_controller.jpg" width="400"   alt=" " /></p>
 
 <br>
 
 # Pictures
-<p align="center"><img src="./img/wifi-robot1.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot2.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot3.jpg" width="400" height="400"  alt=" " /></p>
-<p align="center"><img src="./img/wifi-robot4.jpg" width="400" height="400"  alt=" " /></p>
+<p align="center"><img src="./img/wifi-robot1.png" width="400"   alt=" " /></p>
+<p align="center"><img src="./img/wifi-robot2.png" width="400"  alt=" " /></p>
+<p align="center"><img src="./img/wifi-robot3.png" width="400"   alt=" " /></p>
+<p align="center"><img src="./img/wifi-robot4.png" width="400"   alt=" " /></p>
+
+# Hardware
+<p align="center"><img src="./img/AR2693-Motor-Shield-NodeMCU-L293D-Pinout.jpg" width="400" height="400"  alt=" " /></p>
+<p align="center"><img src="./img/pinout-esp8266.png" width="400" height="400"  alt=" " /></p>
 
 <br>
 
